@@ -8,5 +8,5 @@ If no location metadata for an image is available, one way to infer the location
 
 In this project, you will take the first steps towards addressing this problem by building models to automatically predict the location of the image based on any landmarks depicted in the image. You will go through the machine learning design process end-to-end: performing data preprocessing, designing and training CNNs, comparing the accuracy of different CNNs, and deploying an app based on the best CNN you trained.
 
-<img width="672" height="381" alt="sample_landmark_output" src="https://github.com/user-attachments/assets/e737e1dc-c878-4bd0-8194-2239ff39f081" />
+<img width="1094" height="550" alt="file_upload" src="https://github.com/user-attachments/assets/8eda5670-f20a-4f4a-ab14-ae08cc6f5dbb" />
 
